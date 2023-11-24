@@ -1,28 +1,10 @@
-# Moto-Client
+# React Boilerplate for Webpack and Babel
 
 ## Description
 
-Moto-Client is a web/mobil application that allows Racers/Riders to keep track of their bikes, maintenance, track days, and racing activities.  It also provides a community forum for connecting with other Racers/Riders.
+This is a boilerplate for React applications using Webpack and Babel. It is intended to be used as a starting point for React projects that do not use Create React App.
 
-## Features
 
-* Racer: Keep data on the rider/racer 
-* Maintenance Logs: Keep track of maintenance activities and schedules (future Maint.).
-* Maintenance record: place to keep a historical record: suspension refresh, oil change, tires, valve check, (store mileage on each)
-* Bike Profiles: Keep track of your bikes and their specs.
-* Tracks: Keep track of your favorite tracks and their specs.
-* Track_Day_Logs: Keep track of your track day activities.
-* Racing_Logs: Keep track of your racing activities.
-* Community Forum: Connect and share experiences with other Racers/Riders.
-* garage: represents a user's collection of vehicles
-* vehicle: an individual bike
-* tracks: represents different tracks, include coordinates for future weather related data
-* settings: collection of settings for different parts of the bike
-* setting_item: collection of items that would have settings (suspension, quickshifter, gearing / chain / sprockets, fuel map)
-
-<!-- #### Flow Chart 
-
-<img src="./public/appFlowChart.png" alt="Flowchart" width="350" height="250"> -->
 
 ## Prerequisites
 
@@ -31,17 +13,15 @@ Moto-Client is a web/mobil application that allows Racers/Riders to keep track o
 
 # Installation
 
-This guide covers the steps needed to set up a React application from scratch without using Create React App.
-
-
+This guide covers the steps needed to set up a React application from scratch without using Create React App. It is intended to be used as a reference for future projects.
 
 #### Setup Steps in the CLI
 
 1. **Initialize the Project:**
 
-        mkdir moto-client
+        mkdir <Directory name>
 
-        cd moto-client
+        cd <Directory name>
 
         npm init -y
 
