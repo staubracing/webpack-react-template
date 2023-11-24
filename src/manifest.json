@@ -1,0 +1,9 @@
+{
+    "short_name": "moto-client",
+    "name": "Moto Client",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff"        
+}
