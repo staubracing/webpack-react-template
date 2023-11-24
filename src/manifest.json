@@ -1,6 +1,6 @@
 {
-    "short_name": "moto-client",
-    "name": "Moto Client",
+    "short_name": "react-template",
+    "name": "react-template",
     "icons": [],
     "start_url": ".",
     "display": "standalone",

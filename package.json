@@ -1,7 +1,7 @@
 {
-  "name": "moto-client",
+  "name": "react-template",
   "version": "1.0.0",
-  "description": "Moto-Client is a web/mobil application that allows Racers/Riders to keep track of their bikes, maintenance, track days, and racing activities.  It also provides a community forum for connecting with other Racers/Riders.",
+  "description": "A template for React projects with Webpack and Babel prov",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
