@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a boilerplate for React applications using Webpack and Babel. It is intended to be used as a starting point for React projects that do not use Create React App.
+This is a boilerplate for React applications using Webpack. It is intended to be used as a starting point for React projects that do not use Create React App.
 
 ## Prerequisites
 
