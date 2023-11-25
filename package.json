@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "webpack-react-template",
   "version": "1.0.0",
   "description": "A template for React projects with Webpack and Babel prov",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

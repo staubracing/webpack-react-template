@@ -1,6 +1,6 @@
 {
-    "short_name": "react-template",
-    "name": "react-template",
+    "short_name": "webpack-react-template",
+    "name": "webpack-react-template",
     "icons": [],
     "start_url": ".",
     "display": "standalone",
