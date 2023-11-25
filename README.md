@@ -1,4 +1,4 @@
-# React Boilerplate for Webpack and Babel
+# React Boilerplate using Webpack
 
 ## Description
 
