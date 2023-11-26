@@ -15,4 +15,9 @@ function App() {
   );
 }
 
+console.log(`This is the React version: ${React.version}`);
+
+
+
+
 export default App;

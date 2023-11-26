@@ -29,12 +29,11 @@ module.exports = {
         test: /\.(js|jsx)$/, // RegEx to match js and jsx files
         exclude: /node_modules/, // Exclude the node_modules directory
         use: {
-          loader: 'babel-loader', // Use babel-loader
-          options: {
-            presets: ['@babel/preset-env', '@babel/preset-react'], // Presets for ES6 and React JSX
-          },
+          loader: 'babel-loader', // Use babel-loader  
         },
-      },
+      },        
+          
+
       {
         // Rule for CSS files
         test: /\.css$/, // RegEx to match css files
