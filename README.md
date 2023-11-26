@@ -26,7 +26,10 @@ This guide covers the steps needed to set up a React application from scratch wi
 
 1. **Initialize the Project:**
 
-        // Clone the repo you just created
+        // Navigate to the directory where you want to create the project
+        cd <Directory name>
+
+        // Clone the repo you just created using the template (replace the URL with your repo's URL either HTTPS or SSH)
         git clone https://github.com/your-repo-url.git
 
         // Navigate to the project directory
@@ -46,6 +49,8 @@ This guide covers the steps needed to set up a React application from scratch wi
 
         // Build the production version
         npm run build
+
+5. Start creating your React application!
 
 
 
