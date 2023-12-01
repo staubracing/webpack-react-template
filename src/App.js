@@ -10,7 +10,7 @@ function App() {
       <h3>Edit code in the app.js file</h3>
 
       <Hello />
-      
+
     </div>
   );
 }

@@ -9,7 +9,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "StaubRacing <staubracing@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
@@ -29,5 +29,6 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-middleware": "^6.1.1",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "repository": "https://github.com/staubracing/webpack-react-template.git"
 }
