@@ -38,17 +38,17 @@ This guide covers the steps needed to set up a React application from scratch wi
 2. **Install packages and devDependencies:**
 
         // Install packages and devDependencies
-        npm install 
+        npm install or yarn
 
 3. **start the Development Server**
 
         // Start the development server
-        npm start
+        npm start or yarn start
 
 4. **Build the Production Version**
 
         // Build the production version
-        npm run build
+        npm run build or yarn build
 
 5. Start creating your React application!
 
