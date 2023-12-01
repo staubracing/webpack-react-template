@@ -1,6 +1,6 @@
 Notes on troubleshooting
 
-I have it so that the hello.js has no `import React from 'react';` statemt and it works fine and reneders the dev server.
+I have it so that the hello.js has no `import React from 'react';` statement and it works fine and reneders the dev server.
 
 But when you comment out the import statement in the app.js file it fails to render the dev server and you get an error in the console.
 
